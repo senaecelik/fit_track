@@ -11,7 +11,6 @@
 
 ## Features
  - Made with Firebase Authentication, Firebase Database, MVVM - DDD - Repository, ongeneratRoute
- ![Screenshot_1681507440]()
 
 ## Pages
 - [Login Register Page](#login-register-page)
