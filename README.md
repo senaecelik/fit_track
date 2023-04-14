@@ -1,5 +1,5 @@
-# fit_track
-# Flutter - Firebase 
+
+# Flutter Fit-Tracker - Firebase 
 - This app is made with using Flutter and Firebase
 - The ui given by Figma as ready is referenced. [Fit Tracker UI](https://www.figma.com/file/GKBdzAmAt21I8MPppqs0hB/Draft?node-id=0-1&t=DhUaCmAn8zTd8QpF-0)
 
