@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231676087477",
+    "project_id": "fit-track-9709a",
+    "storage_bucket": "fit-track-9709a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231676087477:android:d8ca67eabdd1109c3042fc",
+        "android_client_info": {
+          "package_name": "com.senacelik.fit_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231676087477-huni8mbe63ivbk7523f7ofpobgsae74r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABrupj9v_3UgUk1Xg1OvEcEUN9YVq5cP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231676087477-huni8mbe63ivbk7523f7ofpobgsae74r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
