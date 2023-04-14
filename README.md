@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/48855691/232158946-e0961b8c-bb13-452e-b142-d5a19f2b4316.gif" width="400">
 
 ## Features
- - Made with Firebase Authentication, Firebase Database, MVVM - DDD - Repository, ongeneratRoute
+ - Made with Firebase Authentication, Firebase Database, MVVM - DDD - Repository, ongeneratRoute, Cubit State Management
 
 ## Pages
 - [Login Register Page](#login-register-page)
